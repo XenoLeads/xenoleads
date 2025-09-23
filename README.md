@@ -1,16 +1,17 @@
-## Hi there 👋
+# Xeno
+### About Me
+I started learning web development over 1.5 years ago. After a break, I'm now focused on building practical projects to strengthen web dev skills.
 
-<!--
-**XenoLeads/xenoleads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Project: 
+*Planning my next project - check back soon!*
 
-Here are some ideas to get you started:
+### Tech Stack
+- Frontend: HTML5, CSS3, JavaScript (ES6+)
+- Tools: Git, VS Code
+- Deployment: Netlify/Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+[![X](./icons//x.png)](https://x.com/xenoleads)
+
+---
+*The best way to learn is by doing.*
